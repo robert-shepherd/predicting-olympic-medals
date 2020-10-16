@@ -5,6 +5,6 @@ The aim of this project is to develop models for predicting the number of medals
 
 ## Questions of interest 
 The main questions of interest are: 
-• Which variables are associated with the number of medals (total/gold or both) won in the 2012 Olympics? 
-• How well does a model based on data up to and including 2012 predict Olympic performance in the 2016 Games? 
-• What improvements might be made to the model/data collected in order to better predict Olympic medal counts for future Games?
+* Which variables are associated with the number of medals (total/gold or both) won in the 2012 Olympics? 
+* How well does a model based on data up to and including 2012 predict Olympic performance in the 2016 Games? 
+* What improvements might be made to the model/data collected in order to better predict Olympic medal counts for future Games?
